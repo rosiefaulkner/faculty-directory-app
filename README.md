@@ -7,10 +7,10 @@ This project demonstrates various Android development concepts, including naviga
 ---
 
 ## Features
-• Display a scrollable list of faculty members using a RecyclerView.
-• View detailed information about a faculty member, including their name, degree, title, bio, and profile picture.
-• Navigate to faculty websites within the app using a WebView.
-• Dynamic navigation with argument passing between fragments using SafeArgs.
+• Display a scrollable list of faculty members using a RecyclerView.\
+• View detailed information about a faculty member, including their name, degree, title, bio, and profile picture.\
+• Navigate to faculty websites within the app using a WebView.\
+• Dynamic navigation with argument passing between fragments using SafeArgs.\
 • Structured and modular codebase for scalability and readability.
 
 ---
@@ -19,9 +19,9 @@ This project demonstrates various Android development concepts, including naviga
 
 To run this project, ensure you have the following:
 
-• Android Studio Arctic Fox or a later version.
-• JDK 8 or higher.
-• Gradle 7.0 or higher.
+• Android Studio Arctic Fox or a later version.\
+• JDK 8 or higher.\
+• Gradle 7.0 or higher.\
 • An Android device or emulator running API 21 (Lollipop) or later.
 
 ---
@@ -64,8 +64,8 @@ git clone https://github.com/yourusername/faculty-directory-app.git
 ### Data Model
 The `FacultyMember` class represents the faculty member entity with properties such as:
 
-• `category`: The category of the faculty member (e.g., Professor, Assistant).
-• `userName`: A unique identifier used to map profile images.
+• `category`: The category of the faculty member (e.g., Professor, Assistant).\
+• `userName`: A unique identifier used to map profile images.\
 • `degree`, `title`, `bio`: Faculty-specific details.
 
 The class is Parcelable, making it easy to pass between fragments.
@@ -76,9 +76,9 @@ The class is Parcelable, making it easy to pass between fragments.
 
 The app uses Android's Navigation Component for seamless navigation:
 
-• `FacultyFragment` → Displays the list of faculty members.
-• `FacultyDetailFragment` → Shows details of the selected faculty member.
-• `BrowserFragment` → Opens the faculty member's website in a WebView.
+• `FacultyFragment` → Displays the list of faculty members.\
+• `FacultyDetailFragment` → Shows details of the selected faculty member.\
+• `BrowserFragment` → Opens the faculty member's website in a WebView.\
 
 The navigation is defined in `nav_graph.xml`, and arguments are passed using `SafeArgs`.
 
@@ -86,7 +86,7 @@ The navigation is defined in `nav_graph.xml`, and arguments are passed using `Sa
 
 ## RecyclerView
 
-• The FacultyAdapter binds faculty data to a custom layout defined in `faculty_list_item.xml`.
+• The FacultyAdapter binds faculty data to a custom layout defined in `faculty_list_item.xml`.\
 • Clicking an item navigates to the `FacultyDetailFragment`.
 
 ---
@@ -107,7 +107,7 @@ The navigation is defined in `nav_graph.xml`, and arguments are passed using `Sa
 
 The BrowserFragment contains a WebView that:
 
-• Dynamically constructs a URL using the faculty member's last name.
+• Dynamically constructs a URL using the faculty member's last name.\
 • Displays the website directly within the app.
 
 ---
@@ -123,7 +123,7 @@ The BrowserFragment contains a WebView that:
 
 ## Customization
 
-Updating Faculty Data
+### Updating Faculty Data
 
 Replace `faculty_data.json` with your own JSON file, adhering to the following format:
 
@@ -169,6 +169,7 @@ git push origin feature-name
 --- 
 
 ## License
+
 This project is licensed under the [MIT License](https://opensource.org/license/mit).
 
 ---
