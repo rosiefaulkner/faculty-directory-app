@@ -4,6 +4,18 @@ The Faculty Directory App is an Android application designed to display a list o
 
 This project demonstrates various Android development concepts, including navigation components, view binding, recycler views, custom adapters, fragments, and WebView integration.
 
+**Faculty List**             |  **Faculty Details**   | **In-App Browser**
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/user-attachments/assets/4bb17fcd-2ac0-424e-9b7d-6ae3492fdd8c) |  ![](https://github.com/user-attachments/assets/77326027-9980-48aa-a818-e37c23d5e95f) | ![](https://github.com/user-attachments/assets/0e17ef52-45cf-4e6b-ab3a-ddb64756ad42)
+
+---
+
+## Video Walkthrough
+
+
+https://github.com/user-attachments/assets/e185bf44-ddf2-47ec-972e-a61f5bb03d03
+
+
 ---
 
 ## Features
