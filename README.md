@@ -2,7 +2,7 @@
 
 The Faculty Directory App is an Android application designed to display a list of faculty members with detailed information about each individual. Users can browse faculty profiles, view their bios, and navigate to their respective websites using an in-app browser.
 
-This project demonstrates various Android development concepts, including navigation components, view binding, recycler views, custom adapters, fragments, and WebView integration.
+This project demonstrates various Android development concepts, including `navigation` components, `view binding`, `recycler views`, custom `adapters`, `fragments`, and `WebView` integration.
 
 **Faculty List**             |  **Faculty Details**   | **In-App Browser**
 :-------------------------:|:-------------------------:|:-------------------------:
