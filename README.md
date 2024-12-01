@@ -40,7 +40,22 @@ git clone https://github.com/yourusername/faculty-directory-app.git
 
 ---
 
-| File/Directory | Description | | --- | --- | | `MainActivity.kt` | Hosts the navigation controller for the app. Manages the overall app lifecycle. | | `FacultyFragment.kt` | Displays a list of faculty members in a **RecyclerView**. | | `FacultyDetailFragment.kt` | Shows detailed information about a selected faculty member. | | `BrowserFragment.kt` | Displays the faculty member's website in a **WebView**. | | `FacultyAdapter.kt` | Custom adapter for binding faculty member data to **RecyclerView** items. | | `FacultyMember.kt` | Data class representing a faculty member, implementing **Parcelable** for easy argument passing. | | `res/layout/` | Contains XML layout files for activities, fragments, and RecyclerView items. | | `assets/faculty_data.json` | JSON file containing mock data for faculty members. | | `navigation/nav_graph.xml` | Navigation graph defining navigation between fragments.|
+## Project Structure
+
+### Main Components
+
+| File/Directory                | Description                                      |
+|-------------------------------|--------------------------------------------------|
+| `MainActivity.kt` | Hosts the navigation controller for the app. Manages the overall app lifecycle. |
+| `FacultyFragment.kt` | Displays a list of faculty members in a **RecyclerView**. |
+| `FacultyDetailFragment.kt` | Shows detailed information about a selected faculty member. |
+| `BrowserFragment.kt` | Displays the faculty member's website in a **WebView**. |
+| `FacultyAdapter.kt` | Custom adapter for binding faculty member data to **RecyclerView** items. |
+| `FacultyMember.kt` | Data class representing a faculty member, implementing **Parcelable** for easy argument passing. |
+| `res/layout/` | Contains XML layout files for activities, fragments, and RecyclerView items. |
+| `assets/faculty_data.json`    | JSON file containing mock data for faculty members. |
+| `navigation/nav_graph.xml`    | Navigation graph defining navigation between fragments. |
+
 
 ---
 
