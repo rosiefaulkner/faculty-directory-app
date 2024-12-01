@@ -1,0 +1,114 @@
+{"faculty":
+[
+  {
+  "category":"Faculty",
+  "userName":"mitrof",
+  "middleName":"J",
+  "degree":"Ph.D.",
+  "firstName":"Frank",
+  "lastName":"Mitropoulos",
+  "title":"Professor",
+  "bio":"Since joining the school’s faculty in 1992, Dr. Mitropoulos has also served as its Director of Computing. He is a member of IEEE, UPE and ACM. Dr. Mitropoulos completed his doctorate at NSU, where his dissertation research focused on software engineering. His research interests include software engineering, programming languages, compiler theory, object-oriented software development, and aspect-oriented software development.",
+  "website": "mitropoulos"
+  },
+  {
+  "category":"Faculty",
+  "userName":"jps",
+  "middleName":"",
+  "degree":"Ph.D.",
+  "firstName":"Junping",
+  "lastName":"Sun",
+  "title":"Professor",
+  "bio":"Dr. Sun joined NSU in 1992 after earning his Ph.D. from Wayne State University. His research interests include database management systems, data warehousing and OLAP, knowledge discovery in database systems, parallel database processing, probabilistic and fuzzy databases, semantic query optimization, intelligent database interfaces, object-oriented database systems, and bioinformatics. Dr. Sun is the author of numerous conference presentations and journal articles, as well as serving as an associate editor of The Journal of Engineering Letters (International Association of Engineers), International Journal of Advanced Intelligence, and for The International Journal of Computers and Their Applications. He is a member of the Association for Computing Machinery (ACM) and senior member of the Institute of Electrical and Electronics Engineers.",
+  "website": "sun"
+  },
+  {
+  "category":"Faculty",
+  "userName":"greg",
+  "middleName":"E",
+  "degree":"Ph.D.",
+  "firstName":"Greg",
+  "lastName":"Simco",
+  "title":"Professor and Chair",
+  "bio":"Prior to joining NSU, Dr. Simco was the Technical and Team leader for OS/2 and Workplace OS kernel and file systems for IBM and Senior Research and Development Engineer and Director of Systems Software for the Panda Project. Dr. Simco is the author of various conference presentations and journal articles primarily focusing on the architecture, design, performance, and evaluation of survivable/dependable distributed systems. He is involved in NSU's Florida Lambda Rail project and the Secure and Robust Distributed Systems initiative within Center of Excellence in Information Assurance at NSU. Dr. Simco teaches masters and doctoral courses in operating systems, mobile computing, distributed systems, and networks and data communication. He received his Bachelor of Science in Engineering (Computer and Information Science) from the University of Florida, and a Master of Science and Ph.D. in Computer Science from NSU.",
+  "website": "simco"
+  },
+  {
+  "category":"Faculty",
+  "userName":"laurie",
+  "middleName":"",
+  "degree":"Ph.D.",
+  "firstName":"Laurie",
+  "lastName":"Dringus",
+  "title":"Professor",
+  "bio":"Dr. Dringus earned her undergraduate and master’s degrees in psychology, and her Ph.D. in information systems, from NSU. Dr. Dringus has taught over 150 graduate level courses online and has been involved in distance learning and online learning since 1983. She was part of the pioneering group at NSU in online learning that started in 1983. She also served as director of one of the first online master’s programs at NSU established in the mid-80s. As a full-time faculty member since 1991, her research and teaching interests continue to focus on user-centered design and information systems, delivery and support of online learning environments, and computer-mediated technology and interactivity. Dr. Dringus is a member of several professional associations and presents at several associated conferences, including those sponsored by Sloan-C, AERA, ACM, and IEEE. She has authored approximately 65+ articles and presentations in the area of human-computer interaction and online learning environments. Currently, her research relates to studying the effects of temporal transitions on participation flow in asynchronous discussion forums. She is also conducting research on the effective use of audio to enhance teacher presence in online discussions. Her future creative endeavors include developing new graduate courses and continuing her research in social networking, computer-mediated communication, and communities of practice. Since 1998, Dr. Dringus has served as Editor-in-Chief of The Internet and Higher Education, a refereed international journal published quarterly by Elsevier.",
+  "website": "dringus"
+  },
+  {
+  "category":"Faculty",
+  "userName":"lpei",
+  "middleName":"",
+  "degree":"Ph.D.",
+  "firstName":"Peixiang",
+  "lastName":"Liu",
+  "title":"Associate Professor",
+  "bio":"Dr Liu obtained his Ph.D. in 2007 from Imperial College London. He received his M.S. degree in computer science from Peking University in 2001 and obtained his second M.S. in computer science from University of Central Florida in 2004. His research interests include computer networks, routing protocol, QoS routing, database systems, genetic algorithms, machine learning and performance evaluation.",
+  "website": "liu"
+  },
+  {
+  "category":"Faculty",
+  "userName":"lingwang",
+  "middleName":"",
+  "degree":"Ph.D.",
+  "firstName":"Ling",
+  "lastName":"Wang",
+  "title":"Professor",
+  "bio":"Dr. Wang joined NSU in 2003, after earning her Ph.D. in educational technology from Purdue University. She teaches graduate courses in Computing Technology in Education and Information Systems, conducts research projects and studies, advises doctoral students’ dissertations, and serves as reviewer for many national and international journals. Her research areas include: educational technology integration, educational applications of Web 2.0 technologies, faculty professional development, and Community of Practice in graduate programs.",
+  "website": "wang"
+  },
+  {
+  "category":"Faculty",
+  "userName":"sumitra",
+  "middleName":"",
+  "degree":"Ph.D.",
+  "firstName":"Sumitra",
+  "lastName":"Mukherjee",
+  "title":"Professor",
+  "bio":"Dr. Mukherjee received his Ph.D. in Decision and Information Systems from Carnegie Mellon University. Prior to joining GSCIS in 1996, Dr. Mukherjee was a faculty member in the department of Computer Information Systems at Baruch College, University of New York. His research interests are in data security, machine intelligence, and automated support for organizational decision making. His publications have appeared in Journals such as Management Science, Journal of the American Statistical Association, IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Knowledge and Data Engineering, Discrete Applied Mathematics, Operations Research Letters, Optimization Letters, and Pattern Recognition Letters.",
+  "website": "mukherjee"
+  },
+  {
+  "category":"Faculty",
+  "userName":"mjl",
+  "middleName":"",
+  "degree":"Ph.D.",
+  "firstName":"Michael",
+  "lastName":"Laszlo",
+  "title":"Professor",
+  "bio":"Dr. Laszlo holds a doctoral and master’s degree in computer science from Princeton University and a bachelor’s degree in mathematics from Vassar College. He is the author of three books, Object-Oriented Programming featuring Graphical Applications in Java, The Schemer's Guide to Solid Modeling, and Computational Geometry and Computer Graphics in C++. Dr. Laszlo’s research interests include computer graphics, data structures and algorithms, software engineering, and programming languages.",
+  "website": "laszlo"
+  },
+  {
+  "category":"Faculty",
+  "userName":"lwei",
+  "middleName":"",
+  "degree":"Ph.D.",
+  "firstName":"Wei",
+  "lastName":"Li",
+  "title":"Associate Professor",
+  "bio":"Dr. Li joined NSU in 2005, after completing his Ph.D. at Mississippi State University. His research focuses on improving the security of computer systems.",
+  "website": "li"
+  },
+  {
+  "category":"Faculty",
+  "userName":"levyy",
+  "middleName":"",
+  "degree":"Ph.D.",
+  "firstName":"Yair",
+  "lastName":"Levy",
+  "title":"Associate Professor",
+  "bio":"Dr. Yair Levy is an associate professor and the director of the Center for e-Learning Security Research. Prior to joining the school, Dr. Levy was instructor and director of online learning at the College of Business Administration at Florida International University, where he earned his Ph.D. in 2003. His current research interests include Security and ethical issues with Web-based and e-learning systems, cyber-security skills, value of information systems and e-learning systems. Dr. Levy is the author of Assessing the Value of e-Learning Systems (2006) and over 30 peer-reviewed publications. His research publications appear in the Journal of Organizational and End User Computing (JOEUC), Journal of Cases on Information Technology (JCIT), International Journal of Information Systems in the Service Sector (IJISSS), Journal of Information Systems Education (JISE), Informing Science Journal (ISJ), Campus-Wide Information Systems (CWIS), The Internet and Higher Education (IHE), journal of Computers & Education, the International Journal of Information and Communications Technology Education (IJICTE), Journal of Internet Banking and Commerce (JIBC), as well as in peer-reviewed conference proceedings. Additionally, he published invited book chapters and encyclopedias. His research publications have been cited by over 200 peer-reviewed manuscripts.",
+  "website": "levy"
+  }
+  ]
+}

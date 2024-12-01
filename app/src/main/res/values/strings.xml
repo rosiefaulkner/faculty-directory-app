@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Faculty Application</string>
+    <string name="image_description_placeholder">image description</string>
+    <string name="label">Label</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="faculty_full_name">%1$s %2$s,</string>
+    <string name="faculty_email">%1$s@nova.edu</string>
+    <string name="faculty_website">https://computing.nova.edu/faculty/%1$s.html</string>
+    <string name="faculty_member_description_placeholder">Faculty Member Description</string>
+    <string name="website">Website</string>
+    <string name="email_placeholder">Username@nova.edu</string>
+    <string name="title_placeholder">Title</string>
+    <string name="degree_placeholder">Degree</string>
+    <string name="full_name_placeholder">First Last,</string>
+    <string name="bio_placeholder">Since joining the school’s faculty in 1992, Dr. Mitropoulos has also served as its Director of Computing. He is a member of IEEE, UPE and ACM. Dr. Mitropoulos completed his doctorate at NSU, where his dissertation research focused on software engineering. His research interests include software engineering, programming languages, compiler theory, object-oriented software development, and aspect-oriented software development.</string>
+</resources>

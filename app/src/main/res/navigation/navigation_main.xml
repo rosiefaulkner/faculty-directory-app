@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_main"
+    app:startDestination="@id/facultyFragment">
+
+    <fragment
+        android:id="@+id/facultyFragment"
+        android:name="com.faculty.faculty.FacultyFragment"
+        android:label="Faculty Members "
+        tools:layout="@layout/fragment_faculty" >
+        <action
+            android:id="@+id/showDetailFragment"
+            app:destination="@id/facultyDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/facultyDetailFragment"
+        android:name="com.faculty.faculty.FacultyDetailFragment"
+        android:label="Faculty Detail"
+        tools:layout="@layout/fragment_faculty_detail" >
+        <action
+            android:id="@+id/showBrowserFragment"
+            app:destination="@id/browserFragment" />
+        <argument
+            android:name="facultyMember"
+            app:argType="com.faculty.faculty.FacultyMember" />
+    </fragment>
+    <fragment
+        android:id="@+id/browserFragment"
+        android:name="com.faculty.faculty.BrowserFragment"
+        android:label="Faculty Information"
+        tools:layout="@layout/fragment_browser" >
+        <argument
+            android:name="facultyMemberLastName"
+            app:argType="string" />
+    </fragment>
+</navigation>
